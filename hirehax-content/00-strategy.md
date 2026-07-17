@@ -1,95 +1,92 @@
 # HireHax Content Strategy
 
-*Owner: Nikolay Dimitrov · Last updated: 2026-07-17*
+*Owner: Nikolay "Nikko" Dimitrov · Last updated: 2026-07-18*
 
-## 1. Why this exists
+## 1. Why this exists, and what changed
 
-HireHax has a finished brand (deck, brand book, proposal templates, a codified voice) and zero published content. The firm's own internal notes have already concluded that content — not cold outreach — is the intended lead-gen engine going forward. This document turns that intention into a system: what to say, to whom, how often, in what format, and how it gets produced without eating founder time it doesn't have.
+An earlier version of this document was built from HireHax's institutional collateral (the executive-search deck, brand book, and proposal templates) found in Drive, and inferred a formal "boardroom" voice for content. That was wrong for this purpose: Nikko then supplied the actual, already-developed content system — `source/HireHax_Social_Content_Claude_Knowledge_Base.md` — built across prior ChatGPT sessions, containing 22 finished or recovered scripts, a topic bank, a proven video formula, and explicit content rules. That file is the real source of truth for HireHax content and this document now follows it. The institutional brand-book voice isn't wrong, it's just a different register for a different purpose (see §4).
 
-This strategy is for **HireHax the search & advisory firm** (life sciences leadership). The adjacent AI-readiness venture ("Health Advisory Hub" / the IV-framework product) is a related but distinct audience and is called out separately in §7 so the two don't get tangled in one feed.
+This strategy is for **HireHax social/video content** — Nikko's personal-brand thought-leadership channel. It is not the search-firm's client-facing proposal or SOW copy.
 
-## 2. Positioning (already decided — don't re-litigate this)
+## 2. Positioning (established, from the knowledge base — don't re-litigate)
 
-Pulled directly from `HireHax_Deck.pdf`, which is finished, approved copy:
+> HireHax is a boutique leadership and organisational advisory for high-growth life-sciences and technology companies. It helps founders, boards, investors, and senior leaders build stronger leadership, smarter organisations, and more effective teams through executive search, leadership and organisational advisory, executive coaching, and talent intelligence.
 
-- **Category**: boutique leadership & executive search advisory, exclusively for life sciences (biotech, diagnostics, clinical-stage scale-ups).
-- **Operating thesis**: *"Leadership is the rate limit of growth."* Capital, science, and strategy scale on rails. Leadership doesn't.
-- **Three pillars**: Search (architecture, not transactions) · Advisory (org design, coaching, top-team effectiveness) · Future-Ready (AI-native leadership design).
-- **Differentiators**: intelligence-led (tracks funding, leadership moves, clinical milestones — this is the concept behind the "HireHax Radar," see note below), always senior-led, conviction over volume, sector-only specialization.
-- **Founder authority**: Nikolay Dimitrov, 20 years inside Amgen, Vertex, and Menarini Diagnostics — global talent acquisition and HR leadership, not an agency recruiter.
+Positioning lines already in rotation (pick per post, don't invent new ones without a reason):
+- "Smarter hiring. Better humans."
+- "Smarter hiring. Better leadership. Real culture."
+- "Hire smarter. Lead better. Grow faster. That's the hack."
+- "Build leadership teams that scale. Not excuses."
+- "Leadership. Reinvented."
+- "Speed. Clarity. Operating Experience. Talent Meets Strategy. No BS."
 
-**Taglines already written (brand book, Part 5 — pick one as the anchor, don't invent new ones):**
-- Primary: *"Leadership intelligence for life sciences."*
-- Alternates: "The right leaders, earlier." · "Where life sciences finds its leaders." · "Built for the leadership decisions that matter most."
-- One-liner: *"Executive search and leadership advisory for life sciences."*
+This is broader than the search firm alone: it covers life sciences *and* technology, and it's Nikko-the-person as the face of it, not "HireHax the company" as an institutional voice.
 
-**Reality check on "Radar":** the brand book describes it as a concept ("the HireHax Radar engine tracks funding rounds, leadership changes, and clinical milestones") but the actual Drive folder for it is empty. No tool exists yet. Until it does, the Signal pillar runs on Nikolay manually tracking 3-5 sources a week (see §9), not on an automated feed. Don't imply in copy that a live tracking engine exists today.
+## 3. Audience
 
-Content's job is to make this thesis visible in public, in small pieces, continuously — not to invent a new message.
+**Primary:** CEOs and founders · chairpeople and boards · C-suite and SVP leaders · Heads of HR / CHROs · investors, VC, and PE leaders · life-sciences, biotech, diagnostics, and technology scale-ups.
 
-## 3. Audience (ICP)
+**Secondary:** executives pursuing or entering senior roles · recruiters and hiring leaders · high-potential leaders.
 
-Two tiers, both drawn from the deck's own segmentation. Content should be written for Tier 1 to read and Tier 2 to signal-boost.
+Content is written to the primary audience's discomfort, not the secondary audience's aspiration. The secondary audience amplifies (comments, shares); the primary audience is who the content is actually trying to reach and eventually convert into a search/advisory conversation.
 
-**Tier 1 — buyers.**
-- CEOs and founders of biotech/diagnostics companies, Series B through pre-IPO.
-- Boards, Chairs, and NEDs of venture- and PE-backed life sciences companies.
-- PE/VC operating partners responsible for portfolio leadership.
+## 4. Voice: two registers, one brand
 
-**Tier 2 — the room they're in.**
-- Sitting CMOs/CFOs/CCOs/CTOs in life sciences who influence board conversations about their own succession or peers.
-- Life sciences operators who are candidates today and clients (as CEOs) in five years — LinkedIn's audience-compounding effect matters here.
+See `01-voice-and-style.md` for the full rules. In short:
 
-Write to the anxieties this ICP actually has: a stalled search, a top team that isn't a system, a board that's asking AI questions nobody can answer credibly, a hire that's now the wrong shape for the company 18 months out.
+- **Content voice (this system, the default for everything here):** direct, sharp, candid, slightly rebellious but credible, truthful and uncomfortable, cynical where useful but never merely negative, critical but solutions-oriented. "Truth bombs," not motivational filler. Commercial and executive-level, never generic HR content.
+- **Formal/client voice (proposals, SOW, engagement letters — out of scope for this system):** boardroom-register, restrained, no em dashes or exclamation marks. This lives in the search firm's institutional collateral, not in social content.
 
-## 4. Voice (non-negotiable — see `01-voice-and-style.md` for the full rules)
-
-Established already: **boardroom, not marketing.** No em dashes, no emoji, no exclamation marks. Restrained, editorial, authoritative — the same register as the deck itself. If a draft could be mistaken for a growth-hacker's LinkedIn post, it's off-brand. The deck is the tuning fork: reread "Selected Work" and "Operating Principles" before writing anything, and match that register.
+These aren't in conflict. The knowledge base's own instructions are explicit that this is Nikko's thought-leadership brand; the formal register belongs to a different deliverable (a signed engagement letter, not a LinkedIn video). Don't blend them: a video script that sounds like a proposal will underperform, and a proposal that sounds like a truth-bomb video will lose the client's confidence.
 
 ## 5. Content pillars
 
-Five pillars, mapped straight onto the firm's existing structure so nothing here requires inventing new expertise — only publishing what Nikolay already knows.
+Six pillars, consolidated from the themes and "Pillar:" tags already used across the 22 developed pieces in the knowledge base. Every topic-bank idea and every future script gets tagged to one of these (see `02-content-bank.md`).
 
-| # | Pillar | What it is | Source of truth | Cadence |
-|---|--------|-----------|------------------|---------|
-| 1 | **Signal** | Market intelligence: funding rounds, leadership moves, board appointments, clinical milestones in biotech/diagnostics, with a one-line implication for leadership. This is the public proof-point for the "intelligence-led" claim, and the seed of the planned monthly digest. | Manual sourcing today (see `05-production-workflow.md`); the "Radar" is a concept, not yet a built tool | Weekly (short) + Monthly (digest/newsletter) |
-| 2 | **Search as Architecture** | How retained search actually works when it's done as design, not as a transaction — methodology, myths, what a stalled search usually means, succession/bench planning. | Deck Pillar I; SOW template process (Calibration → Research & Mapping → Approach & Assessment → Shortlist & Interviews → Offer & Close) | Weekly |
-| 3 | **Org & Leadership Design** | Org design, top-team effectiveness, board composition/cadence, executive coaching — the Advisory pillar's thinking made visible. | Deck Pillar II | Weekly |
-| 4 | **Future-Ready / AI** | AI-native org design for life sciences specifically — not generic "AI will change everything" content. Which roles get redesigned, which get retired, what boards should be asking. | Deck Pillar III; the AI Revolution work-in-progress (kept general, not a pitch for the other venture) | Every 2 weeks |
-| 5 | **Operating Principles / Founder POV** | The four operating principles ("we start with the end," "we think in systems not seats," "we operate like insiders," "we tell the truth fast") unpacked one at a time, plus insider stories from Amgen/Vertex/Menarini that earn the authority claim. | Deck "How We Work"; founder background | Every 2 weeks |
+| # | Pillar | What it covers | Anchor pieces already developed |
+|---|--------|-----------------|----------------------------------|
+| A | **Hiring & Talent Decisions** | Why hiring actually breaks: indecision, brand-name bias, unclear briefs, employer story. | 2.3, 2.7, 2.8, 2.9, 2.10 |
+| B | **Leadership & Culture** | What leadership behaviour does to teams and hiring outcomes; consensus, inconsistency, mirrors. | 2.2, 2.6, 2.11, 2.14, 2.16 |
+| C | **Scaling & Organisational Design** | What breaks as companies grow; team composition, delegation, loyalty vs. capability. | 2.12, 2.13, 2.18, 2.22 |
+| D | **Executive Career & Onboarding** | Guidance for operators entering or navigating senior roles. | 2.7 (dual-tagged), 2.17, §3 career fragments |
+| E | **AI & Future-Ready Leadership** | AI as a leadership topic, not an IT project; life-sciences-specific AI adoption. | 2.19, 2.21 |
+| F | **Founder Story / Behind the Brand** | Why HireHax exists; Nikko's own leadership failures and lessons. | 2.1, 2.5 |
 
-**Recurring proof format (not weekly, folded into whichever pillar fits):** anonymized "Selected Work" case studies, in the exact three-line structure the deck already uses — situation, what was done, outcome. This is the highest-trust content type available and the deck has already proven the format works; `templates/case-study.md` operationalizes it.
+Situational/contextual leadership pieces (2.15, 2.20) sit across B and C depending on the specific angle — tag at write time.
 
-## 6. Channels & cadence
+## 6. Format and platforms (established, from the knowledge base)
 
-- **LinkedIn — primary.** This ICP lives there, not on X or Instagram. Personal profile (Nikolay Dimitrov), not a company page — boardroom trust is personal, not institutional.
-- **Newsletter — secondary, compounding.** Monthly, per the July 9 decision already made internally ("share the monthly M&A digest report on the website and LinkedIn"). Newsletter = long-form version of the Signal pillar + one deeper piece from another pillar. Publish on the website first, distribute via LinkedIn + email.
-- **Website — archive, not a channel.** Deck copy and case studies get mined into a "Perspectives" or "Insights" page so LinkedIn posts have somewhere permanent to link back to.
+**Primary format:** 45-90 second talking-head video, 9:16, 5-6 strategic B-roll inserts, sharp/cinematic/minimal text overlay. This is the format everything else gets adapted from, not the other way around — always write the spoken script first.
 
-**Suggested weekly rhythm** (adjust to what's sustainable — three good posts beat five mediocre ones):
+**The proven structure (non-negotiable, reuse every time):**
+1. Hook in the first three seconds — an uncomfortable truth or surprising contrast.
+2. Call-out / reflection — the behaviour the audience recognises in itself.
+3. Truth or reframing — what's actually going on.
+4. Educational shift — what a strong leader does instead.
+5. Ending reflection / punchline — a line that earns the pause.
 
-| Day | Pillar | Format |
-|-----|--------|--------|
-| Mon | Signal | Short market-intel post (3-6 lines) |
-| Wed | Search as Architecture *or* Org & Leadership Design (alternate) | Medium thought-leadership post |
-| Fri | Future-Ready *or* Operating Principles (alternate, every other week) | Medium post, or a Selected Work case study once a month in this slot |
+Never end on a complaint alone. Every piece leaves a leadership implication or decision.
 
-Monthly: one newsletter issue, published the first week of the month, built from that month's best Signal items plus one expanded pillar piece.
+**Platform priority:**
+- **LinkedIn — primary.** Strongest strategic depth, longest caption, full executive framing.
+- **Instagram / Reels, TikTok, YouTube Shorts, Facebook, Threads/X — repurposed from the same script**, not independently written. See `templates/platform-adaptation-cheatsheet.md`.
 
-## 7. The adjacent venture — kept separate
+## 7. Cadence (new — this is the gap the prior system didn't fill)
 
-The AI-readiness assessment product (internally "Health Advisory Hub" as of the July 2 decision) has its own audience (CDO/CIO/CEO buying an AI-maturity score, not a search mandate) and its own funnel (free snapshot → subscription → paid audit). Per the internal notes, that venture's content marketing is explicitly meant to replace cold sales for *that* product. Recommendation: don't merge its content into the HireHax feed until the brand name is finalized — cross-posting a product pitch into a "boardroom, not marketing" search-firm voice will dilute both. When ready, it gets its own content plan using this same system as a template.
+The knowledge base has voice, format, and 22 scripts plus a 15-item topic bank, but no stated publishing rhythm. Recommendation, sized to what one person can sustain alongside running search mandates:
+
+- **2 new scripts per week**, one from Pillar A or B (the highest-performing pillars historically, per the volume of developed pieces) and one rotating through C-F.
+- Each script gets filmed once, then adapted across all platforms per §6 the same day or the day after — don't let platform adaptation lag far behind the source script, engagement compounds fastest when it's synchronized.
+- **Monthly:** revisit `02-content-bank.md`, mark what's been shot, pull the next 8 items into the following month's queue so there's always a month of runway without re-deciding topics weekly.
+
+Adjust downward before abandoning the system: one strong script a week, fully adapted across platforms, beats two scripts that only make it to LinkedIn.
 
 ## 8. Goals & measurement
 
-Content's real job here is pipeline, not vanity reach — the deck sells five- and six-figure retained mandates, not clicks.
+- **Primary:** qualified inbound conversations from primary-audience profiles (DMs, "can we talk" comments, meeting requests) — this is a search/advisory pipeline tool, not a vanity-metrics exercise.
+- **Leading indicator:** comments from CEOs/founders/board members specifically, not just raw engagement. A video with 50 likes from recruiters is worth less than one with 5 comments from operators.
+- **Review cadence:** monthly. Which pillar produced conversations. Adjust the following month's pillar mix accordingly, using `02-content-bank.md` to keep sequencing topics rather than repeating what already worked once.
 
-- **Primary**: qualified inbound conversations (DMs, newsletter replies, "can we talk" comments) from Tier 1 ICP profiles. Track monthly, by pillar, so you learn which pillar actually starts conversations.
-- **Secondary**: newsletter subscriber growth from the right ICP (check titles/companies of new subscribers monthly, don't just count numbers).
-- **Leading indicator**: engagement (comments, not likes) from people who match Tier 1/Tier 2 — a Signal post that gets 40 likes from recruiters is worth less than one that gets 4 comments from CEOs.
-- **Review cadence**: monthly, 20 minutes — which pillar produced conversations, which didn't, adjust the following month's mix. Don't overhaul the system before it's had a full quarter to work.
+## 9. What "better than before" means here
 
-## 9. Practical note on manual sourcing (until Radar exists)
-
-Signal-pillar items today come from: LinkedIn's own job-alert and network-update feed (already active on the HireHax inbox), a standing 15-minute Monday scan of two or three biotech/diagnostics funding trackers, and Nikolay's own network conversations. This is deliberately low-tech. Don't delay publishing to wait for a Radar tool that doesn't exist yet.
-
+The knowledge base already has strong material and a real, developed voice — the gap wasn't quality, it was *system*: nothing tracked what had been published versus what was still available, there was no cadence, and the topic bank had no path into finished scripts. This system adds exactly those three things (`02-content-bank.md`, §7 above, `05-production-workflow.md`) on top of material that didn't need to be reinvented.

@@ -1,67 +1,70 @@
 # Voice & Style
 
-Source of truth: `hirehax-brand-book.html`, Part 6 ("Verbal identity & voice") and Part 5 ("Messaging architecture"). This is the actual, existing, approved brand-book language — quoted verbatim below, not reconstructed. (The SOW template points to a `references/voice.md` file that doesn't exist as a separate file in Drive; the brand book's Part 6 is its real source.)
+Source of truth: `source/HireHax_Social_Content_Claude_Knowledge_Base.md`, Section 1. This is the real, already-established voice — quoted and organized below, not reconstructed from institutional collateral.
 
-## The register
+## The voice
 
-> The register is boardroom, not marketing. Plain, declarative, confident. It should read like a strategy-consulting deliverable, not an agency pitch. Make a senior leader stop and think.
+- Direct, sharp, confident
+- Candid and human
+- Slightly rebellious, but credible
+- Truthful, uncomfortable, and real
+- Cynical where useful, never merely negative
+- Critical but constructive and solutions-oriented
+- Commercial and executive-level, not generic HR content
+- Expert insight delivered as relatable "truth bombs"
+- Gary Vee energy without empty motivational language or bullshit
 
-## Voice principles (verbatim)
+Read that last line literally: energy and directness, yes; hustle-culture platitudes and hype, no. Every piece needs a defensible, specific point — not just confidence.
 
-- **Lead with the point.** Answer or recommendation first, supporting detail second. No throat-clearing.
-- **One idea per sentence.** Short and load-bearing. Favour verbs over adjectives.
-- **Insight, not fear.** State consequences as logic. Confident, never alarmist or hype-driven.
-- **Slightly contrarian.** Take a defensible position. A point of view is the product.
+## What the content is actually about
 
-## Tone by context
+The content exposes **leadership and organisational causes**, not recruitment-process mechanics. If a draft is about interview scheduling or ATS workflow, it's off-pillar. Favoured themes, straight from the knowledge base:
 
-| Context | Dial | Note |
-|---|---|---|
-| Client email & proposals | Authoritative, warm, precise | Address the leader as "you / your organization." HireHax is "we." |
-| **LinkedIn & content** | **Strategic, insightful, contrarian** | **Write as someone with deep experience. Never promotional or generic.** |
-| Outreach (cold) | Specific, brief, respectful | Reference a real signal. Never fabricate a pipeline, investor, or name. |
+- inconsistent leadership behaviour
+- changing goalposts
+- unclear market and employer stories
+- confused decision rights
+- avoidance disguised as trust or loyalty
+- founders failing to evolve with the company
+- leadership capability during scale
+- human + digital talent and AI-enabled organisations
+- executive accountability, context, and judgement
 
-The bolded row is the one this content system lives in. Every post should sound like it comes from twenty years of insider experience with a point of view, not from a marketing calendar.
+## The register, by context
 
-## The dash rule (non-negotiable)
+| Context | Register |
+|---|---|
+| **HireHax social/video content (this system)** | Direct, truth-bomb, slightly rebellious, executive-level. This document. |
+| Formal client documents (proposals, SOW, engagement letters) | Boardroom-register: restrained, no em dashes, no exclamation marks. A different deliverable, out of scope here — don't blend the two. |
 
-> No em dashes, en dashes, or hyphens used mid-sentence to join or interrupt clauses. Write full sentences instead. Applies to every output.
+## The proven video formula (structural discipline, not optional)
 
-Sanctioned exceptions only: an eyebrow lead in all caps ("— EXECUTIVE ASSESSMENT") and en dashes inside literal number ranges (e.g. "41–60"). Nowhere else. If you catch yourself using one to avoid restructuring a sentence, restructure the sentence.
-
-**No emoji unless explicitly requested. No exclamation marks.**
-
-## Words we use
-
-leadership · conviction · signal · momentum · stage · mandate · advisory · readiness · operator · precision · pipeline · the right leader · point of view · org design
-
-## Words we avoid
-
-synergy · world-class · game-changing · rockstar · ninja · unlock your potential · cutting-edge · passionate · revolutionary · leverage (as a verb) · "in today's fast-paced world" · "great question" · "certainly"
+1. **Hook in the first three seconds.** An uncomfortable truth or surprising contrast. Test it in isolation: does it work with zero context?
+2. **Call-out / reflection.** Show the audience the behaviour they recognise in themselves or their org.
+3. **Truth or reframing.** Name what's actually happening, underneath the surface complaint.
+4. **Educational shift.** What a strong leader does instead — concrete, not aspirational.
+5. **Ending reflection / punchline.** A short line that earns the pause. Never end on the complaint alone.
 
 ## Mechanics
 
-- Sentence case for headlines and buttons. UPPERCASE reserved for mono-style eyebrows/labels only.
-- Plain integers. En dash for genuine ranges only (see dash rule above).
-- Middot "·" as a separator where useful (the deck and this doc both use it).
-- Reader = "you / your organization." HireHax = "we / our advisors."
-- **Never state unverified pipeline, investor, or company data as fact.** If a fact in a Signal post isn't confirmed, label it "unconfirmed" rather than dropping it or overstating it. This matters more on LinkedIn than anywhere else, since Signal posts are the pillar most likely to reference other people's companies.
+- Short, declarative sentences. One idea per line is normal and correct in this voice, not a stylistic failure — see any of the 22 developed scripts.
+- First person ("I") is used freely for founder-story and lived-experience pieces (Pillar F, and career-guidance pieces). "We"/"leaders"/"you" for the more general leadership-truth pieces.
+- Rhetorical contrast is a core device: "Retention is not a programme... People stay when..." / "That is not a talent problem. It is leadership confusion leaking into hiring." Set up the wrong framing, then correct it in the very next line.
+- Numbered frameworks are used sparingly and only when genuinely actionable (e.g. the three questions before opening a role in 2.9, the five things in 2.19) — not as generic listicle padding.
 
-## Before / after (from the brand book itself)
+## What to avoid (per the knowledge base's own generation rules)
 
-**Off-brand:**
-> "In today's fast-paced biotech world, we're a world-class, passionate team of recruitment ninjas ready to unlock your company's full potential and find game-changing rockstar talent!"
-
-**On-brand:**
-> "Growth creates complexity. The leadership team that got you here is rarely the one that gets you to the next stage. We help you see that gap early and close it with conviction."
-
-Study the difference: same underlying message, but the on-brand version leads with an idea, uses one clause per sentence, and never reaches for an adjective when a consequence will do.
+- HR jargon
+- Generic inspiration / empty motivational language
+- Listicle filler
+- Process-first advice (the content is about leadership causes, not recruiting mechanics)
+- Softening the central truth until the post becomes forgettable — per the knowledge base: "Never soften the central truth so much that the post becomes forgettable."
 
 ## Working checklist before publishing anything
 
-- [ ] Leads with the point, not a windup.
-- [ ] Zero em/en dashes used mid-sentence, zero emoji, zero exclamation marks.
-- [ ] Every claim carries a number, a name (anonymized if needed), a timeframe, or is explicitly labeled unconfirmed.
-- [ ] Takes a defensible, slightly contrarian position, not a consensus platitude.
-- [ ] Uses no word from the "avoid" list.
-- [ ] If you removed the HireHax name, could a generic recruiting agency have written this? If yes, rewrite until only twenty years inside Amgen, Vertex, and Menarini could have produced it.
+- [ ] Hook survives with zero context in the first three seconds.
+- [ ] Names the uncomfortable truth directly, doesn't just gesture at it.
+- [ ] Follows hook → call-out → truth/reframe → educational shift → punchline.
+- [ ] Ends with a leadership implication or decision, not a complaint.
+- [ ] No HR jargon, no generic inspiration, no listicle filler, no process-first advice.
+- [ ] Checked against `02-content-bank.md` for topic overlap — if it overlaps, it's a deliberate sequel or a materially different angle, not an accidental repeat.

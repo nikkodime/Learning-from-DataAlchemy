@@ -1,71 +1,163 @@
-# Example drafts: one full first week
+# Example drafts: two new scripts, system proven end to end
 
-Five ready-to-review posts showing the system running end to end, one per weekday, following the cadence in `00-strategy.md` §6. These are drafts, not final: check each against the checklist in `01-voice-and-style.md` before publishing, and swap in real Signal items for the placeholder one below once you're publishing for real (never publish a fabricated Signal item).
-
----
-
-## Monday — Signal (template: `templates/signal-post.md`)
-
-*Placeholder item — replace with a real, current funding/leadership/milestone item before publishing.*
-
-```
-A mid-stage European biotech announced a new Chief Commercial Officer this week, six months after its last one departed.
-
-Six months without a commercial leader at that stage is not a hiring delay. It is a strategy delay wearing a hiring problem's clothes.
-
-Worth asking before the next board update: is the current search timeline built around finding the right person, or around finally admitting the last brief was wrong.
-```
+Two genuinely new scripts, pulled from `02-content-bank.md`'s `AVAILABLE` pool (not already in `source/HireHax_Social_Content_Claude_Knowledge_Base.md`), written against `templates/video-script-master.md` and checked against the voice checklist in `01-voice-and-style.md`. This is what "select → script → QA" looks like in practice — use these as the pattern for scripting the rest of the calendar, not as one-off pieces to publish as-is without your own read-through.
 
 ---
 
-## Wednesday — Search as Architecture (template: `templates/thought-leadership-post.md`)
+## 1. Hire for the Next Chapter, Not the Current One
 
-```
-The best signal that a search is going to fail isn't a thin candidate pool. It's a hiring committee that agrees on every candidate profile shown to them.
+**Audience:** CEOs and founders hiring through a growth inflection (Series B-C or equivalent)
+**Pillar:** A — Hiring & Talent Decisions (also touches C — Scaling & Org Design)
+**Central truth:** Most hiring briefs describe today's problem, not the company the business is turning into, which is why a hire that made sense in month one is wrong by month twelve.
 
-Agreement that easy usually means the brief was written vague enough for everyone to project their own version of the role onto it. The disagreement was never resolved. It just moved from the brief to the shortlist, where it costs more to fix.
+### Hook options
+1. Most companies hire for the mess they're in right now. Not the company they're becoming.
+2. The person who's perfect for your company today is often the wrong hire for the company you're building.
+3. You're not hiring for the job on the page. You're hiring for the job that exists in eighteen months.
 
-Most boards think alignment happens after the search starts, once real candidates make the tradeoffs concrete. It should happen before, on a page, while it's still cheap to argue about.
+**Selected:** Option 1 — sharpest contrast, passes the zero-context test.
 
-If your search committee hasn't disagreed about anything yet, that's not consensus. That's a brief nobody has actually read closely.
-```
+### Final spoken script
+
+Most companies hire for the mess they're in right now. Not the company they're becoming.
+
+There's a gap. Revenue's stalling. The board's asking questions. So you hire fast, for the fire in front of you.
+
+Six months later the fire's out. The company's a different shape. And the person you hired for the emergency is now trying to manage a phase they were never built for.
+
+That's not a bad hire. That's a hire built for a version of the company that already stopped existing.
+
+Before the next brief goes out, stop describing today's problem. Describe the company at month eighteen. Then hire the person who's right for that one.
+
+You're not filling a seat. You're building the team for a company that doesn't exist yet.
+
+### LinkedIn caption
+
+Most companies hire for the mess they're in right now. Not the company they're becoming.
+
+There's a gap. Revenue's stalling. The board is asking pointed questions. So you hire fast, for the fire in front of you today.
+
+Six months later the fire's out. The company has changed shape. And the person you hired for the emergency is now trying to manage a phase of the business they were never built for.
+
+That's not a bad hire. That's a hire built for a version of the company that already stopped existing by the time they onboarded.
+
+Before the next brief goes out, stop describing today's problem. Describe the company at month eighteen: the team size, the market position, the level of complexity. Then hire the person who's right for that company, not this one.
+
+You're not filling a seat. You're building the team for a company that doesn't exist yet.
+
+If your last three hires all "made sense at the time" and none of them are still the right fit, that's not bad luck. That's a hiring process built one stage behind the business.
+
+### Instagram / TikTok caption
+
+You're not hiring for today's job. You're hiring for the job that exists in eighteen months.
+
+Most hires fail because the brief described a company that already stopped existing.
+
+Hire for where you're going. Not where you are.
+
+#Hiring #Leadership #Scaling
+
+### YouTube Shorts title + description
+
+**Title:** Why Your Last Hire Was Wrong (Even Though They Were Right)
+**Description:** Most hiring briefs describe the company's current problem, not where it's headed. Here's how to hire for the company you're building, not the one putting out fires today.
+
+### Threads / X version
+
+Most companies hire for the mess they're in today. Not the company they're becoming. That's why the hire who made sense in month one is wrong by month twelve.
+
+### Pinned comment
+
+Quick gut check: does your last hiring brief describe today's problem, or the company you're building toward? If it's the former, that's worth fixing before the next one.
+
+### B-roll cues
+
+1. Fast-moving, urgent office scene — firefighting energy
+2. Calendar pages or a timeline visual moving forward
+3. An org chart being redrawn
+4. A tense meeting room
+5. A leader at a whiteboard, sketching a future team structure
+6. Contrast shot: a chaotic desk cutting to a calm, deliberate planning session
 
 ---
 
-## Friday — Operating Principle (template: `templates/principle-post.md`)
+## 2. AI Won't Replace Leaders — It'll Expose Weak Ones
 
-Principle: "We think in systems, not seats."
+**Audience:** CEOs and boards navigating AI-strategy conversations (life sciences and tech)
+**Pillar:** E — AI & Future-Ready Leadership
+**Central truth:** AI doesn't replace leadership judgment. It removes the cover that let leaders whose only real skill was gatekeeping information look essential.
 
-```
-We think in systems, not seats. Most search firms fill chairs.
+### Hook options
+1. Everyone's worried AI is coming for leadership jobs. Wrong fear.
+2. AI isn't going to replace you. It's going to reveal whether you were ever actually needed.
+3. The leaders most scared of AI are usually the ones AI is about to explain.
 
-Early in my time at Menarini, a business unit brought me a brief for a single commercial hire. Two weeks into the mapping, it was clear the actual gap wasn't a seat. It was the space between two existing roles, both partially responsible for the same decision, neither fully accountable for it. Hiring a strong person into the open seat would have made a smart person the tiebreaker in a structure that was already broken.
+**Selected:** Option 1 — states the contrarian position immediately, per the voice rule to lead with the point.
 
-We redesigned the reporting line first. The hire that followed was easier, because the seat itself finally made sense.
+### Final spoken script
 
-Before opening a search, it's worth mapping the system the seat sits in: who else touches this decision, where the accountability actually lives today, and whether the org chart already explains why the last person in this role struggled.
-```
+Everyone's worried AI is coming for leadership jobs. Wrong fear.
+
+AI doesn't replace leaders. It exposes the ones who were coasting.
+
+For years, a manager could survive on one skill: sitting between the data and the decision. Gatekeeping information. Looking essential because nobody else in the room could see what they saw.
+
+Give the team direct, instant access to that same information, and that manager is left holding nothing except the judgment they were supposed to have all along.
+
+If your value was standing between people and information, AI just found you out.
+
+If your value is judgment, AI just gave you more time to use it.
+
+### LinkedIn caption
+
+Everyone's worried AI is coming for leadership jobs. Wrong fear.
+
+AI doesn't replace leaders. It exposes the ones who were already coasting.
+
+For years, plenty of managers survived on one skill: sitting between the data and the decision. Gatekeeping information. Looking essential because nobody else in the room could see what they saw.
+
+Give the team direct, instant access to that same information, and that manager is left holding nothing except the judgment they were supposed to have the whole time.
+
+If your value was standing between people and information, AI just found you out.
+
+If your value is judgment, pattern recognition, and the willingness to make a hard call, AI just gave you more time to do more of it.
+
+Boards asking "what's our AI strategy" are usually asking the wrong question first. The right one: which of our leaders are earning their seat through judgment, and which ones have been living off access.
+
+### Instagram / TikTok caption
+
+AI isn't replacing leaders. It's exposing the ones who were never really leading.
+
+If your whole job was sitting between people and information, that job just ended.
+
+If your job was judgment, you just got more time for it.
+
+#Leadership #AI #FutureOfWork
+
+### YouTube Shorts title + description
+
+**Title:** AI Isn't Replacing Leaders. It's Exposing Them.
+**Description:** The leaders most scared of AI are usually the ones whose entire value was gatekeeping information, not judgment. Here's the real threat AI poses to leadership.
+
+### Threads / X version
+
+AI doesn't replace leaders. It exposes the ones whose entire job was standing between people and information instead of making judgment calls.
+
+### Pinned comment
+
+Real question for the comments: in your organization, which roles exist because of judgment, and which exist because of access? AI is about to make that distinction very public.
+
+### B-roll cues
+
+1. A closed office door — gatekeeper visual
+2. Data dashboards, information flowing across screens
+3. A leader making a decisive call mid-meeting
+4. An org chart with a layer being removed
+5. Split screen: someone gatekeeping information vs. someone making a judgment call
+6. A clock or calendar, time visibly freeing up
 
 ---
 
-## Next Monday — Signal (second item, showing weekly rhythm)
+## How to use this file going forward
 
-*Placeholder — replace with a real item.*
-
-```
-A diagnostics company confirmed a new independent board chair this month, its first outside appointment since a Series B round two years ago.
-
-A board that hasn't added an outside voice in two years is a board that has been marking its own homework through an entire growth stage.
-
-The useful question for founders reading this: when did your board composition last change, and did it change because the company needed a new perspective, or because someone happened to leave.
-```
-
----
-
-## First month — Selected Work (template: `templates/case-study.md`, once real, permissioned material exists)
-
-Hold this slot until there is a real, client-permissioned engagement to anonymize using the exact format in the template. Do not publish a fabricated case study. Until then, this slot can be filled with a second thought-leadership or principle post instead.
-
----
-
-**How to use this file going forward:** don't keep hand-writing full weeks here. Once the system is running, use this file's structure as the pattern, draft directly against the relevant template in `templates/`, and run every draft through the checklist in `01-voice-and-style.md` before it goes out. See `05-production-workflow.md` for the repeatable weekly process.
+Don't keep hand-writing full scripts here. Once the pipeline is running, draft directly against `templates/video-script-master.md`, source the topic from `02-content-bank.md`, and run every script through the checklist in `01-voice-and-style.md` before filming. See `05-production-workflow.md` for the full repeatable process.
