@@ -21,6 +21,11 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | AVAILABLE | You Can't Fix a Bad Hire with Good Onboarding | KB §4 topic bank #4 |
 | AVAILABLE | Talent of the Future: Stop Recruiting for Yesterday's Organisation | KB §4 topic bank #15 |
 | AVAILABLE | "Here's why top talent ghost your company." (hook only, needs full script) | KB §4 standalone hooks |
+| AVAILABLE | The Best Candidate Isn't the One Who Interviews Best | New batch 2026-07-18 |
+| AVAILABLE | Why "Culture Fit" Is Often Just Bias With Better PR | New batch 2026-07-18 |
+| AVAILABLE | Counter-Offers Don't Fix the Reason Someone Wanted to Leave | New batch 2026-07-18 |
+| AVAILABLE | Why the Best People Leave Quietly, Long Before They Resign | New batch 2026-07-18 |
+| AVAILABLE | Why Scientific Founders Struggle to Hire Commercial Leaders (life sciences specific) | New batch 2026-07-18 |
 
 ## Pillar B — Leadership & Culture
 
@@ -36,6 +41,10 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | AVAILABLE | What Boards See That Founders Avoid | KB §4 topic bank #13 |
 | AVAILABLE | "Quiet quitting wasn't the problem — quiet leadership was." (hook only) | KB §4 standalone hooks |
 | AVAILABLE | "Unpopular opinion: HR isn't broken — leadership is." (hook only) | KB §4 standalone hooks |
+| AVAILABLE | Feedback Culture Is a Myth Until Someone Senior Gets Criticized in Public | New batch 2026-07-18 |
+| AVAILABLE | The Leadership Team That Agrees on Everything Is Hiding Something | New batch 2026-07-18 |
+| AVAILABLE | What Exit Interviews Actually Reveal (and Why Nobody Reads Them) | New batch 2026-07-18 |
+| AVAILABLE | Culture Isn't What You Say in the All-Hands. It's What You Tolerate After It. | New batch 2026-07-18 |
 
 ## Pillar C — Scaling & Organisational Design
 
@@ -50,6 +59,12 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | AVAILABLE | You Don't Scale a Business — You Scale People Who Scale the Business | KB §4 topic bank #1 |
 | AVAILABLE | The Founder Who Built the Company May Be the Leader Now Limiting It | KB §4 topic bank #8 |
 | AVAILABLE | Why Scientific Brilliance Cannot Compensate for Organisational Immaturity | KB §4 topic bank #14 |
+| AVAILABLE | The COO Problem: Why the Second-in-Command Role Keeps Failing | New batch 2026-07-18 |
+| AVAILABLE | When a Founder-CEO Should Step Aside for a Professional CEO (and When They Shouldn't) | New batch 2026-07-18 |
+| AVAILABLE | Layoffs Reveal More About Leadership Than Hiring Does | New batch 2026-07-18 |
+| AVAILABLE | What Actually Happens to Culture During M&A Integration | New batch 2026-07-18 |
+| AVAILABLE | The Board Doesn't Care About Your Science If the Leadership Team Can't Execute (life sciences specific) | New batch 2026-07-18 |
+| AVAILABLE | Clinical-Stage Leadership Is Different From Commercial-Stage Leadership. Most Hires Don't Survive the Transition. (life sciences specific) | New batch 2026-07-18 |
 
 ## Pillar D — Executive Career & Onboarding
 
@@ -59,6 +74,10 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | DEVELOPED | §3 career fragments — interviews as mutual due diligence, LinkedIn positioning, executive job search | KB §3 |
 | AVAILABLE | "Three questions I ask before every executive hire." (hook only) | KB §4 standalone hooks |
 | AVAILABLE | "My three rules for building a culture that scales." (hook only) | KB §4 standalone hooks |
+| AVAILABLE | Negotiating Your Package Is Not the Awkward Part. Not Negotiating Is. | New batch 2026-07-18 |
+| AVAILABLE | The One Interview Question That Tells You Everything About a Company | New batch 2026-07-18 |
+| AVAILABLE | Why Smart Executives Take the Wrong Job for the Right Reasons | New batch 2026-07-18 |
+| AVAILABLE | What Boards Actually Look at Before They Fire a CEO | New batch 2026-07-18 |
 
 ## Pillar E — AI & Future-Ready Leadership
 
@@ -72,6 +91,8 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | AVAILABLE | The CEO Must Become an HR Leader | KB §4 topic bank #11 |
 | AVAILABLE | The Future Leader Will Lead Agents, Not Only People | KB §4 topic bank #12 |
 | AVAILABLE | "The next generation of CEOs will lead humans and machines. Are you ready?" (hook only) | KB §4 standalone hooks |
+| AVAILABLE | AI Governance Is a Leadership Job, Not a Compliance Checkbox | New batch 2026-07-18 |
+| AVAILABLE | What "AI-Native" Actually Means for a 200-Person Biotech, Not a Tech Giant (life sciences specific) | New batch 2026-07-18 |
 
 ## Pillar F — Founder Story / Behind the Brand
 
@@ -81,6 +102,10 @@ This is the piece the prior knowledge base didn't have: a single tracker of what
 | DEVELOPED | 2.5 When I Built My First Global HR Team, I Failed | KB §2.5 |
 | AVAILABLE | "From zero to Global Head of HR..." (hook only) | KB §4 standalone hooks |
 | AVAILABLE | Why Most Transformation Projects Fail Before They Start | KB §4 topic bank #5 |
+| AVAILABLE | Why I Nearly Burned Out Building Other People's Leadership Teams | New batch 2026-07-18 |
+| AVAILABLE | Twenty Years, Three Companies, One Repeated Mistake | New batch 2026-07-18 |
+| AVAILABLE | What Working Across Five Continents Taught Me About "Best Practice" Not Existing | New batch 2026-07-18 |
+| AVAILABLE | The Day I Told a CEO Something They Didn't Want to Hear | New batch 2026-07-18 |
 
 ## Series/campaign banks not yet mapped to individual scripts
 
